@@ -1,0 +1,26 @@
+{
+  "cardsFolder": "_CardBox/Cards",
+  "boxesFolder": "_CardBox/Boxes",
+  "boxes": [
+    {
+      "id": "box_k71zx16_mqhfg6we",
+      "name": "收集箱",
+      "description": "默认卡片盒",
+      "created": 1781661825518,
+      "updated": 1781661825518
+    }
+  ],
+  "defaultBoxId": "box_k71zx16_mqhfg6we",
+  "cardWidth": 320,
+  "cardHeight": 220,
+  "previewSmallScale": 100,
+  "previewMediumScale": 125,
+  "previewLargeScale": 105,
+  "previewTitleSize": 18,
+  "sortMode": "created-desc",
+  "showInfoPanel": true,
+  "embedStyle": "card",
+  "lazyLoad": true,
+  "folderHidingEnabled": false,
+  "hiddenFolderPaths": []
+}

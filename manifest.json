@@ -1,0 +1,10 @@
+{
+  "id": "cardbox",
+  "name": "cardbox",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Card boxes, embeds, backlinks, and a clean workbench for Obsidian.",
+  "author": "CardBox Team",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
